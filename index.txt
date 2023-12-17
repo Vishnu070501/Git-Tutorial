@@ -1,0 +1,13 @@
+"hello world"
+I want this to go to the second commit
+
+changed
+
+
+changed again
+
+changed changed again
+changed after mentioning it to git ignore
+The Git ignore file is used to specify intentionally untracked files that Git should ignore. However, it doesn't work retroactively for files that were already tracked before they were added to the .gitignore file. If a file is already being tracked by Git, it will continue to be tracked, even if you later add it to the .gitignore file.
+
+swssss
